@@ -1,2 +1,1 @@
-console.log("hello git;test yinshen;");
-
+console.log("hello git;");
