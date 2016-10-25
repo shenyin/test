@@ -1,1 +1,1 @@
-console.log("20161025 by yinshen");
+console.log("1");
